@@ -1,0 +1,2 @@
+# Core dependencies goes here
+pynamodb_mate>=6.0.0.4,<7.0.0.0
