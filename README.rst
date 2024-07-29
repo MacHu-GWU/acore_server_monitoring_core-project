@@ -1,5 +1,4 @@
-
-.. .. image:: https://readthedocs.org/projects/acore-server-monitoring-core/badge/?version=latest
+.. image:: https://readthedocs.org/projects/acore-server-monitoring-core/badge/?version=latest
     :target: https://acore-server-monitoring-core.readthedocs.io/en/latest/
     :alt: Documentation Status
 
@@ -26,10 +25,10 @@
 
 ------
 
-.. .. image:: https://img.shields.io/badge/Link-Document-blue.svg
+.. image:: https://img.shields.io/badge/Link-Document-blue.svg
     :target: https://acore-server-monitoring-core.readthedocs.io/en/latest/
 
-.. .. image:: https://img.shields.io/badge/Link-API-blue.svg
+.. image:: https://img.shields.io/badge/Link-API-blue.svg
     :target: https://acore-server-monitoring-core.readthedocs.io/en/latest/py-modindex.html
 
 .. image:: https://img.shields.io/badge/Link-Install-blue.svg
