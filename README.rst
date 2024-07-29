@@ -49,8 +49,8 @@
 
 Welcome to ``acore_server_monitoring_core`` Documentation
 ==============================================================================
-.. image:: https://acore-server-monitor-core.readthedocs.io/en/latest/_static/acore_server_monitoring_core-logo.png
-    :target: https://acore-server-monitor-core.readthedocs.io/en/latest/
+.. image:: https://acore-server-monitoring-core.readthedocs.io/en/latest/_static/acore_server_monitoring_core-logo.png
+    :target: https://acore-server-monitoring-core.readthedocs.io/en/latest/
 
 在生产环境中, 对游戏服务器的性能, 在线人数等统计数据进行监控是一个成熟的服务器所必不可少的功能. 本项目和 `acore_server_monitoring_measurement <https://github.com/MacHu-GWU/acore_server_monitoring_measurement-project>`_, `acore_server_monitoring_analytics <https://github.com/MacHu-GWU/acore_server_monitoring_analytics-project>`_ 一起, 提供了采集服务器的监控数据, 和对监控数据进行分析的功能. 这个库实现了前面提到的其他项目的共用功能.
 
