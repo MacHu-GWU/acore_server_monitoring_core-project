@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+"""
+Monitoring data store DynamoDB table schema.
+"""
+
 import enum
 import pynamodb_mate.api as pm
 
